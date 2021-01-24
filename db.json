@@ -1,0 +1,16 @@
+{
+   "instances":[
+      {
+         "instanceId":"i-04083269c3cb995ae",
+         "ip":"10.51.85.166",
+         "ownerTag":"jsmith",
+         "name":"this is just from a dummy file"
+      },
+      {
+         "instanceId":"i-04083269c3cb995ww",
+         "ip":"10.51.85.167",
+         "ownerTag":"johndoe",
+         "name":"dummy fileeeee"
+      }
+   ]
+}
